@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import idcard from './idboth.png';
+import idcardkyson from './kyson.png';
 import './App.css';
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
         >
           Book your party in seconds
         </a>
+        <img src={idcardkyson} className="App-logo" alt="logo" />
       </header>
     </div>
   );
