@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import idcard from './idboth.JPG';
+import idcard from './idboth.png';
 import './App.css';
 
 function App() {
